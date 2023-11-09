@@ -1,0 +1,53 @@
+table,td, th{
+
+    border-bottom: 1px solid;
+    border-collapse:collapse ;
+    
+    
+    }
+    
+    table{
+    
+    width: 60%;
+    font-size: 20px;
+    margin: auto;
+    
+    }
+    
+    td,th{
+    
+    padding: 10px;
+    
+    }
+    
+    th{
+    
+    background-color: blue;
+    color: white;
+    
+    }
+    
+    .button{
+    background-color: blue;
+    color:white;
+    border-radius: 5px;
+    padding: 10px;
+    
+    }
+
+    .butt{
+        background-color:blue;
+        color:white;
+        border-radius: 5px;
+        padding: 17px;
+            
+        }
+
+    
+    tr:hover{
+    
+    background-color: darkgrey;
+    
+    }
+    
+    
