@@ -1,5 +1,5 @@
 # skyline-tech
-Table-2 contains a Table data containing Skyline ict students records.
+#Table-2 contains a Table data containing Skyline ict students records.
 what is contained in this project is what we call A Table data commonly called 'TD' <td>.
 it is expedient to note that in between every Table data contains all the content of the table cells.
 A table can contain different element for example image,email etc.
