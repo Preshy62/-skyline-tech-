@@ -50,4 +50,17 @@ table,td, th{
     
     }
     
+.fa-square-xmark{
+background-color: white;
+color:red;
+}
+
+.fa-square-check{
+
+background-color: green ;
+color: white;
+
+
+}
+
     
